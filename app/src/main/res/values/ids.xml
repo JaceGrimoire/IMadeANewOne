@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout" type="id" />
+    <item name="nameImageView" type="id" />
+    <item name="nameTextView" type="id" />
+    <item name="mobileImageView" type="id" />
+    <item name="emailImageView" type="id" />
+    <item name="addressImageView" type="id" />
+    <item name="dobImageView" type="id" />
+</resources>
